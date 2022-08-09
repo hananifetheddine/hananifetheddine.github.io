@@ -372,6 +372,15 @@ section .title::after{
     width: 60%;
 }
 
+.skills-content .right .fire::before{
+    width: 75%;
+}
+
+.skills-content .right .spring::before{
+    width: 65%;
+}
+
+
 /* teams section styling */
 .teams .title::after{
     content: "my work";
